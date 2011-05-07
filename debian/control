@@ -1,5 +1,5 @@
 Source: etherpad
-Section: contrib/httpd
+Section: main/web
 Priority: extra
 Maintainer: Etherpad Foundation (Packaging) <packaging@etherpad.org>
 Build-Depends: po-debconf, debhelper (>= 7)
